@@ -1,0 +1,9 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÖØ†ß8ƒİÜœ¾1
+|
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "clients".(½¸Êç8„İÜœ¾1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û½´şÿÿÿÿ8…İÜœ¾1
+]	java:S125"<This block of commented-out lines of code should be removed.(ìÿ“¿øÿÿÿÿ8İÜœ¾1
+X	java:S125&"<This block of commented-out lines of code should be removed.(İÕ‚8İÜœ¾1
+F
+java:S1128")Remove this unused import 'Domain.Movie'.(˜Ã¿¨8¹˜åœ¾1

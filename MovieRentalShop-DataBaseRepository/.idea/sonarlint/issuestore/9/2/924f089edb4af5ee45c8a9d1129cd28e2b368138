@@ -1,0 +1,25 @@
+
+7
+java:S1220""Move this file to a named package.8äÇ…¾1
+]
+java:S1854)";Remove this useless assignment to local variable "console".(ŞÎ×şÿÿÿÿ8çÇ…¾1
+i
+java:S1854$"GRemove this useless assignment to local variable "rentalMemoryService".(úÊ¸÷ıÿÿÿÿ8çÇ…¾1
+`
+java:S1854"CRemove this useless assignment to local variable "rentalValidator".(÷ÿä8çÇ…¾1
+`
+java:S1854"CRemove this useless assignment to local variable "clientValidator".(›–°8çÇ…¾1
+_
+java:S1854"BRemove this useless assignment to local variable "movieValidator".(éÛï8çÇ…¾1
+P
+java:S1481"3Remove this unused "movieValidator" local variable.(éÛï8éÇ…¾1
+Q
+java:S1481"4Remove this unused "clientValidator" local variable.(›–°8éÇ…¾1
+Q
+java:S1481"4Remove this unused "rentalValidator" local variable.(÷ÿä8êÇ…¾1
+Z
+java:S1481$"8Remove this unused "rentalMemoryService" local variable.(úÊ¸÷ıÿÿÿÿ8êÇ…¾1
+N
+java:S1481)",Remove this unused "console" local variable.(ŞÎ×şÿÿÿÿ8ëÇ…¾1
+X	java:S125,"<This block of commented-out lines of code should be removed.(ñ¢±Ø8ëÇ…¾1
+G	java:S1060"+Replace this use of System.out by a logger.(•›…8ìÇ…¾1

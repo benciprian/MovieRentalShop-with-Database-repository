@@ -1,0 +1,8 @@
+
+z
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "rental".(ÿåÓ.8Œ’úœ¾1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û½´şÿÿÿÿ
+L
+java:S1128"*Remove this unused import 'Domain.Client'.(÷öÉ§ûÿÿÿÿ8íŞşœ¾1
+F
+java:S1128")Remove this unused import 'Domain.Movie'.(˜Ã¿¨8íŞşœ¾1

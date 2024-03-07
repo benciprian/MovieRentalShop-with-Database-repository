@@ -1,0 +1,30 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û½´şÿÿÿÿ
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8‰÷Éº1
+l
+java:S2095K"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8‰÷Éº1
+l
+java:S20953"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8‰÷Éº1
+l
+java:S2095d"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8‰÷Éº1
+l
+java:S2095r"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8‰÷Éº1
+C
+java:S1170"!Make this final field static too.(‡ŞŒÍşÿÿÿÿ8Ñ÷øÇº1
+C
+java:S1170"!Make this final field static too.(™´ı§ùÿÿÿÿ8Ñ÷øÇº1
+C
+java:S1170"!Make this final field static too.(øÂ—Áøÿÿÿÿ8Ñ÷øÇº1
+S
+java:S6437"6Revoke and change this password, as it is compromised.(“îÔÖ8Ô÷øÇº1
+S
+java:S64371"6Revoke and change this password, as it is compromised.(“îÔÖ8Ú÷øÇº1
+S
+java:S6437I"6Revoke and change this password, as it is compromised.(“îÔÖ8á÷øÇº1
+S
+java:S6437b"6Revoke and change this password, as it is compromised.(“îÔÖ8å÷øÇº1
+S
+java:S6437p"6Revoke and change this password, as it is compromised.(“îÔÖ8ç÷øÇº1
+K
+java:S1128".Remove this unused import 'Domain.BaseEntity'.(ÊÃâ‚8Ê÷Éº1

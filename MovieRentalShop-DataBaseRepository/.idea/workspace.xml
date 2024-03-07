@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="691869be-91dd-4518-86df-7d10da7137b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5 -DataBase Repository.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain/Validators/ClientValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain/Validators/MovieValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain/Validators/RentalValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain/Validators/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain/Validators/ValidatorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/ClientRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/MovieRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/PostgresClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/PostgresMovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/PostgresRentalRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/RentalRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Console.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2XqAhBz7a7ubc868oI2gtS9pGcl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/benfl/OneDrive/Desktop/An2 Sem1 2023-2024 An2 postuniv/Cursuri Modul 1 An2 postuniv/MP-2023/MP-Lab5 Postgresql Repository DataBase/MovieRentalShop with DataBase Repository",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab5 -DataBase Repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="691869be-91dd-4518-86df-7d10da7137b6" name="Changes" comment="" />
+      <created>1699346354294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699346354294</updated>
+      <workItem from="1699346355363" duration="2087000" />
+      <workItem from="1699349553515" duration="403000" />
+      <workItem from="1699365719693" duration="174000" />
+      <workItem from="1699537956733" duration="1418000" />
+      <workItem from="1699539468526" duration="558000" />
+      <workItem from="1699684421415" duration="1456000" />
+      <workItem from="1699691640662" duration="105000" />
+      <workItem from="1699693433199" duration="1524000" />
+      <workItem from="1699695344807" duration="1880000" />
+      <workItem from="1699701570796" duration="530000" />
+      <workItem from="1699717578860" duration="4907000" />
+      <workItem from="1699817812830" duration="120000" />
+      <workItem from="1699817951119" duration="848000" />
+      <workItem from="1699870814067" duration="2500000" />
+      <workItem from="1699889004077" duration="3961000" />
+      <workItem from="1699954273469" duration="2171000" />
+      <workItem from="1699959334123" duration="292000" />
+      <workItem from="1699982975835" duration="359000" />
+      <workItem from="1700200901334" duration="405000" />
+      <workItem from="1700201473755" duration="10476000" />
+      <workItem from="1700213523833" duration="53000" />
+      <workItem from="1700215609064" duration="232000" />
+      <workItem from="1700227300381" duration="51000" />
+      <workItem from="1700239132470" duration="1722000" />
+      <workItem from="1700321737766" duration="10303000" />
+      <workItem from="1706544449008" duration="796000" />
+      <workItem from="1706548007672" duration="331000" />
+      <workItem from="1706602729226" duration="1067000" />
+      <workItem from="1706609796028" duration="789000" />
+      <workItem from="1706623155864" duration="1172000" />
+      <workItem from="1709829631231" duration="98000" />
+      <workItem from="1709829961368" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
